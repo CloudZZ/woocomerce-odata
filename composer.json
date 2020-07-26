@@ -1,0 +1,12 @@
+{
+    "name": "jekson/www",
+    "require": {
+        "kilylabs/odata-1c": "^0.2.0"
+    },
+    "authors": [
+        {
+            "name": "Eugene Bolikhov",
+            "email": "mrjekson@gmail.com"
+        }
+    ]
+}
